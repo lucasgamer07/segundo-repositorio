@@ -1,3 +1,12 @@
+@import url(/styles/header.css);
+
+:root {
+    --cor-principal: #ffffff;
+    --cor-secundaria: #b88518;
+    --cor-escrita:#cecbcb;
+    --cor-defundo:#000000;
+}
+
 * {
     margin: 0;
     padding: 0;
