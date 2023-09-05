@@ -1,11 +1,12 @@
 @import url(/styles/header.css);
 
 :root {
+    --cor-de-fundo: #ebecee
     --cor-principal: #ffffff;
     --cor-secundaria: #b88518;
     --cor-escrita:#cecbcb;
     --cor-defundo:#000000;
-    --font-principal:"ital"
+    --font-principal:"Robot"
     --fonte-secundaria:"Prompt"
 }
 

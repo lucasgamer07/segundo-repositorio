@@ -52,20 +52,17 @@ display: block;
     color: var(--azul);
 }
 
-@media screen and (mid 1024px) {
+@media screen and (min-width: 1024px) {
     .container__titulo{
-     display: block;
-     font-family: var(--fonte-secundaris);
-     font-weight: 400;
-     font-size: 30px;
-    }
-
-    .container__titulo--negrito{
-        font-weight: 700;
+        display: block;
+        font-family: var(--fonte-secundaris);
+        font-weight: 400;
+        font-size: 30px;
     }
     .cabecalho_menu{
         display: none;
-}
-.container__favorito{
-    display: none;
+    }
+    .cabecalho__favorito{
+        display: none;
+    } 
 }
