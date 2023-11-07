@@ -2,8 +2,8 @@
 @import url(styles/carrossel);
 
 :root{
-    --cor-de-fundo: #000000;
-    --cor-principal:#0e0c80;
+    --cor-de-fundo: #08f76c;
+    --cor-principal:rgb(33, 175, 57);
     --branco:#FFFFFF;
     --preto: #000000;
     --roxo: #9949B4;
